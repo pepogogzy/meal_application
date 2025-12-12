@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435476889292",
+    "project_id": "meals-application-868fe",
+    "storage_bucket": "meals-application-868fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435476889292:android:6888645b3845d78f304c69",
+        "android_client_info": {
+          "package_name": "com.mobilni.mobilni_labs_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9cK0malX_zs6c1BTkszcdlh43CHRENXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
